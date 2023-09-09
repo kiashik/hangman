@@ -1,6 +1,5 @@
 # This is a basic hangman game. This game will run entirely in the terminal.
-# Project Hangman
-# Criteria:
+# Project Hangman Criteria:
 1. asks user for a word(no sentences) no duplicate chacters in words allowed. like the word allowed. 
 2. hangman will have 6 parts(6 attempts).
 3. if guess is wrong, all the wrong guess are shown. an part of hangman is added.
@@ -8,3 +7,8 @@
 5. if all 6 attemps are used, say you lost. and disply the correct answer.
 6. otherwise say you won.
 7. lower or upper case don't matter.
+
+# RULES:
+1. No world with repeating letters are allowed.
+2. No sentences or pharses with spaces in between is allowed.
+3. Six attempts allowed.
