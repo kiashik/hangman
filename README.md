@@ -14,5 +14,5 @@
 3. Six attempts allowed.
 
 # Improvments:
-Currently, the game is not very fun or convenient to play. It would be a lot better if the program could pick a world randomly(maybe from a category). this way the game will be single-player payable. 
-Or the program could pick a world from a list(predetermined or received from the player), then the player will play as usual. this will make the game playable single or double player.
+Currently, the game is not very fun or convenient to play. It would be a lot better if the program could pick a word randomly(maybe from a category). this way the game will be single-player playable. 
+Or the program could pick a word from a list(predetermined or received from the player), then the player will play as usual. this will make the game playable single or double player.
